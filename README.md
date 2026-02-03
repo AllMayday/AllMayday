@@ -17,13 +17,14 @@ I'm a Full Stack Developer based in **Rio de Janeiro, Brazil**. I specialize in 
 ---
 
 ### 📫 Connect with me
-<a href="https://www.linkedin.com/in/caiofacchinettidealmeida/">
-  <img align="left" alt="Caio's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="left">
+<a href="https://www.linkedin.com/in/caiofacchinettidealmeida/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio linkedin" height="30" width="40" />
 </a>
-<a href="mailto:caiofacchidev@gmail.com">
-  <img align="left" alt="Caio's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:caiofacchidev@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="caio email" height="30" width="40" />
 </a>
-<br />
+</p>
 
 <!---
 AllMayday/AllMayday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
